@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-kazino-s-zhivymi-dilerami.github.io
+Sitemap: https://top-kazino-s-zhivymi-dilerami.github.io/sitemap.xml
